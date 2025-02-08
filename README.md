@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Virat 👋
 
-<!--
-**shvirat/shvirat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CSE Student | Cybersecurity Enthusiast**  
+🔐 Passionate about **Cybersecurity** and **Programming**  
+💻 Exploring **ethical hacking**, **penetration testing**, and **secure coding**  
+🌱 Always learning new technologies and improving my skills  
+📂 Working on **data security**, **web vulnerabilities**, and **cryptography**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✨ About Me
+
+I'm passionate about coding and always embracing new challenges with adaptability and enthusiasm. With a focus on refining my problem-solving abilities, I'm continuously learning and innovating to turn complex concepts into clean, efficient code. My goal is to craft impactful solutions while maintaining balance between functionality and elegance, creating seamless and scalable experiences.
+
+I'm currently on an exciting journey of learning programming, building my skills step by step, and laying the foundation for a future where I can create impactful solutions and make a difference in the tech world.
+
+---
+
+### 📬 Feel free to connect or reach out for collaborations!
+- [LinkedIn](https://www.linkedin.com/in/shvirat)
+- [Instagram](https://www.instagram.com/ahamvirat)
+- [Twitter](https://www.twitter.com/ahamvirat)
+- [Personal Website](https://genpixel.great-site.net)
+
