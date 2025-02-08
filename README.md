@@ -12,7 +12,7 @@
 
 I'm passionate about coding and always embracing new challenges with adaptability and enthusiasm. With a focus on refining my problem-solving abilities, I'm continuously learning and innovating to turn complex concepts into clean, efficient code. My goal is to craft impactful solutions while maintaining a balance between functionality and elegance, creating seamless and scalable experiences.
 
-I'm currently on an exciting journey of learning programming, building my skills step by step, and laying the foundation for a future where I can create impactful solutions and make a difference in the tech world.
+Currently, I'm on an exciting journey of learning programming, building my skills step by step, and laying the foundation for a future where I can create impactful solutions and make a difference in the tech world.
 
 ---
 
