@@ -19,5 +19,5 @@ Currently, I'm on an exciting journey of learning programming, building my skill
 ### 📬 Feel free to connect or reach out for collaborations!
 - [LinkedIn](https://www.linkedin.com/in/shvirat)
 - [Instagram](https://www.instagram.com/ahamvirat)
-- [Twitter](https://www.twitter.com/ahamvirat)
+- [Personal Website](https://genpixel.great-site.net/)
 
