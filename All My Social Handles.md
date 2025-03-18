@@ -16,7 +16,7 @@ Welcome to my online persona! Below are all the platforms where you can connect 
 - **[LinkedIn](https://www.linkedin.com/in/shvirat)**  
   Connect with me professionally to stay updated on my career journey.
 
-- **[Reddit](https://www.reddit.com/user/susmvt)**  
+- **[Reddit](https://www.reddit.com/user/thisaciu)**  
   Engage with me in various communities and discussions.
 
 ## Knowledge & Writing Platforms
@@ -35,7 +35,7 @@ Welcome to my online persona! Below are all the platforms where you can connect 
 - **[Discord](https://discord.com/users/shvirat)**  
   Join my server to chat with me and others on various topics.
 
-- **[Telegram](https://t.me/susmvt)**  
+- **[Telegram](https://t.me/thisaciu)**  
   Reach out to me directly for one-on-one chats, quick responses.
   
 ## Personal Website
