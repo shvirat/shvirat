@@ -4,13 +4,13 @@ Welcome to my online persona! Below are all the platforms where you can connect 
 
 ## Social Media
 
-- **[Instagram](https://www.instagram.com/ahamvirat)**  
+- **[Instagram](https://www.instagram.com/shvirat_)**  
   Follow me for my personal updates, stories, and visuals.
 
-- **[Facebook](https://www.facebook.com/ahamvirat)**  
+- **[Facebook](https://www.facebook.com/shviratt)**  
   Stay connected with my posts, updates, and events.
 
-- **[Twitter](https://www.twitter.com/ahamvirat)**  
+- **[Twitter](https://www.twitter.com/shvirat_)**  
   Join the conversation and follow my tweets.
 
 - **[LinkedIn](https://www.linkedin.com/in/shvirat)**  
@@ -35,7 +35,7 @@ Welcome to my online persona! Below are all the platforms where you can connect 
 - **[Discord](https://discord.com/users/shvirat)**  
   Join my server to chat with me and others on various topics.
 
-- **[Telegram](https://t.me/thisaciu)**  
+- **[Telegram](https://t.me/zindabhau)**  
   Reach out to me directly for one-on-one chats, quick responses.
   
 ## Personal Website
