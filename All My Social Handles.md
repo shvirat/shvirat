@@ -32,7 +32,7 @@ Welcome to my online persona! Below are all the platforms where you can connect 
 
 ## Communication & Networking
 
-- **[Discord](https://discord.com/users/shvirat)**  
+- **[Discord](https://discord.com/users/zindabhau)**  
   Join my server to chat with me and others on various topics.
 
 - **[Telegram](https://t.me/zindabhau)**  
