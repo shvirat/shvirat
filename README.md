@@ -1,23 +1,50 @@
-# Hi there, I'm Virat 👋
+# Hi there, I'm Virat 👋  
 
-**CSE Student | Cybersecurity Enthusiast**  
-🔐 Passionate about **Cybersecurity** and **Programming**  
-💻 Exploring **ethical hacking**, **penetration testing**, and **secure coding**  
-🌱 Always learning new technologies and improving my skills  
-📂 Working on **data security**, **web vulnerabilities**, and **cryptography**
+**CSE Student | Web Developer**  
 
----
-
-### ✨ About Me
-
-I'm passionate about coding and always embracing new challenges with adaptability and enthusiasm. With a focus on refining my problem-solving abilities, I'm continuously learning and innovating to turn complex concepts into clean, efficient code. My goal is to craft impactful solutions while maintaining a balance between functionality and elegance, creating seamless and scalable experiences.
-
-Currently, I'm on an exciting journey of learning programming, building my skills step by step, and laying the foundation for a future where I can create impactful solutions and make a difference in the tech world.
+💻 Passionate about **Web Development** and **Programming**  
+🌐 Exploring **Front-end & Back-end Development**, **JavaScript**, and **Modern Frameworks**  
+⚡ Focused on **Clean Code**, **Problem Solving**, and **Scalable Applications**  
+🔒 Learning basics of **Cybersecurity** to build secure and reliable solutions  
 
 ---
 
-### 📬 Feel free to connect or reach out for collaborations!
-- [LinkedIn](https://www.linkedin.com/in/shvirat)
-- [Instagram](https://www.instagram.com/ahamvirat)
-- [Personal Website](https://genpixel.great-site.net/)
+## ✨ About Me  
 
+I’m a Computer Science student with a strong passion for **web development**.  
+I enjoy crafting **responsive**, **user-friendly**, and **efficient** applications that blend creativity with functionality.  
+
+- 🚀 Constantly learning new technologies and improving my skills  
+- 🛠️ Building projects to strengthen my problem-solving abilities  
+- 🌱 Exploring full-stack development step by step
+- 🤝 Curious to contribute to **open-source projects** 
+- 🎯 Goal: To grow as a developer and contribute to impactful projects  
+
+---
+
+## 🛠️ Tech Stack  
+
+- **Languages**: C, Python, Java, JavaScript  
+- **Web**: HTML, CSS, JavaScript, React (learning), Node.js (learning)  
+- **Tools**: Git, GitHub, VS Code, Linux/Termux  
+- **Other**: Basics of Cybersecurity & Secure Coding Practices  
+
+---
+
+## 📂 Current Focus  
+
+- 🌐 Developing full-stack web projects  
+- 📖 Strengthening DSA & problem-solving  
+- 🔒 Understanding secure coding fundamentals  
+
+---
+
+## 📫 Connect With Me  
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/shvirat)  
+- 📸 [Instagram](https://www.instagram.com/shvirat_)  
+- 📧 [genpixel@yahoo.com](mailto:genpixel@yahoo.com)  
+
+---
+
+⭐️ *"Code. Learn. Build. Repeat."*  
