@@ -43,7 +43,7 @@ I enjoy crafting **responsive**, **user-friendly**, and **efficient** applicatio
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/shvirat)  
 - 📸 [Instagram](https://www.instagram.com/shvirat_)  
-- 📧 [genpixel@yahoo.com](mailto:genpixel@yahoo.com)  
+- 🔍 [Personal Site](https://www.sharmavirat.in)  
 
 ---
 
