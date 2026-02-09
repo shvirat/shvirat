@@ -1,6 +1,6 @@
 # Hi there, I'm Virat 👋  
 
-**CSE Student | Full-Stack Developer**  
+**CSE Student | Full-Stack Developer***  
 
 💻 Passionate about **Full-Stack Web Development** and **Programming**  
 🌐 Exploring **Front-end & Back-end Development**, **JavaScript**, and **Modern Frameworks**  
@@ -25,9 +25,10 @@ I enjoy crafting **responsive**, **user-friendly**, and **efficient** applicatio
 ## 🛠️ Tech Stack  
 
 - **Languages**: C, Python, Java 
-- **Web**: HTML, CSS, JavaScript + Typescript, React, Node.js 
+- **Web**: HTML, CSS, JavaScript + TypeScript, React, Node.js, Express, Tailwind
+- **Database**: MongoDB, SQLite
 - **Tools**: Git, GitHub, VS Code, Linux/Termux  
-- **Other**: Linux, Basics of Cybersecurity & Secure Coding Practices  
+- **Other**: Bash, Basics of Cybersecurity & Secure Coding Practices  
 
 ---
 
